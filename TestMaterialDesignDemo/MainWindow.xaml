@@ -112,8 +112,9 @@
                                             <TextBox
             Grid.Column="1"
             Margin="8 0 0 0"
+            Foreground="Black"        
             materialDesign:HintAssist.Hint="应用搜索"
-                                                
+            
             materialDesign:TextFieldAssist.DecorationVisibility="Hidden"
             BorderThickness="0"
             MinWidth="200"
